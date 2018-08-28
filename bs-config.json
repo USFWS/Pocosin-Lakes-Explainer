@@ -1,0 +1,6 @@
+{
+  "injectChanges": true,
+  "port": 3000,
+  "files": ["./dist/**/*.{html,css,js}"],
+  "server": { "baseDir": "dist" }
+}
